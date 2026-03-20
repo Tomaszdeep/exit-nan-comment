@@ -1,0 +1,5 @@
+version: "1.0"
+duct:
+  name: rpc
+  enabled: true
+  config: xt
