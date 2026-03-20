@@ -1,0 +1,5 @@
+version: "1.0"
+east:
+  name: mwj
+  enabled: true
+  config: math
